@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-function App() {
+const App = () => {
   return <h1>Hello from second app</h1>;
 }
 
